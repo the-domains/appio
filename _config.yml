@@ -20,3 +20,6 @@ navigation:
   - name: About
     id: 9cea8cd7-c224-4cce-ac8a-7251d171a5c8
     type: content
+  - name: Aerial
+    id: f2752e57-d43b-4c3c-97cb-f3fb0adc88cb
+    type: content
