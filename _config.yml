@@ -1,4 +1,4 @@
-typography_spectrum: 0.25712371664121747
+typography_spectrum: 0.6310648545622826
 color:
   brandStrength: 0.817648543510586
   lightness: 0.15981566696427763
@@ -10,7 +10,7 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-layout_spectrum: 0.41293337964452803
+layout_spectrum: 0.3318154604639858
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/95913435-a0df-4c6f-a1cd-08564a231386.png
 name: AppiO
