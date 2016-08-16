@@ -1,0 +1,14 @@
+layout_spectrum: 0.05905469786375761
+typography_spectrum: 0.7304073616396636
+color:
+  brandStrength: 0.9922237352002412
+  lightness: 0.8917878433130682
+  saturation: 0.15053461934439838
+  rhythmicContrast: 0.2643687482923269
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: AppiO
