@@ -4,18 +4,17 @@ description: >-
   opportunity to build something amazing together. Specialising in 2D & 3D
   animation, web & app development, video editing and graphic design, iO strives
   to create a healthy environment for creativity to overflow.
-dateModified: '2016-08-16T14:36:12.045Z'
-datePublished: '2016-08-16T14:36:44.110Z'
+dateModified: '2016-08-16T14:37:38.420Z'
+datePublished: '2016-08-16T14:37:39.389Z'
 title: AppiO is an initiative of inventiveOrigins (iO)
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-16-appio-is-an-initiative-of-inventiveorigins-io.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: appio-is-an-initiative-of-inventiveorigins-io/index.html
+_type: Blurb
 
 ---
 # AppiO is an initiative of inventiveOrigins (iO)
