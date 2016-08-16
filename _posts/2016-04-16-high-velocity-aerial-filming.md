@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-16T13:53:08.374Z'
+datePublished: '2016-08-16T14:53:38.529Z'
 sourcePath: _posts/2016-04-16-high-velocity-aerial-filming.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/162088181'
-hasPage: false
+hasPage: true
 keywords:
   - gripen
   - saab
@@ -20,7 +19,7 @@ author:
   - name: Peter Degerfeldt Blue Sky Aerial
     url: 'http://vimeo.com/user416634'
     avatar: {}
-dateModified: '2016-08-16T13:53:06.859Z'
+dateModified: '2016-08-16T14:53:37.759Z'
 title: High Velocity Aerial Filming
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/162088181'
@@ -63,6 +62,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: high-velocity-aerial-filming/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
