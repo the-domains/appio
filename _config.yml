@@ -1,16 +1,16 @@
-typography_spectrum: 0.6086114917416126
+typography_spectrum: 0.09699175017885864
 color:
-  brandStrength: 0.018722247797995806
-  lightness: 0.45962062664330006
-  saturation: 0.7731823611538857
-  rhythmicContrast: 0.5276016092393547
+  brandStrength: 0.7751283685211092
+  lightness: 0.3675561039708555
+  saturation: 0.20665436726994812
+  rhythmicContrast: 0.9966654262971133
   brandColors:
-    - '#09090B'
-    - '#542D2E'
-    - '#87D1EE'
-    - '#F2F7FA'
-    - '#51729F'
-layout_spectrum: 0.06680521951057017
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.5017305887304246
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/95913435-a0df-4c6f-a1cd-08564a231386.png
 name: AppiO
